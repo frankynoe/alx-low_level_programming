@@ -10,7 +10,7 @@ int main(void)
 int chiffre = 0;
 while(chiffre < 10)
 {
-print("%d", chiffre);
+printf("%d", chiffre);
 }
 printf("\n");
 return (0);
