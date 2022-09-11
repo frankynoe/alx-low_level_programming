@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  *main - display the alphabet
  *
@@ -8,10 +9,9 @@
 
 int main(void)
 {
-  char a;
+char a;
 
-  for (a = 'a'; a <= 'z'; a++)
-    putchar(a);
-  putchar('\n');
-  return (0);
+for (a = 'a'; a <= 'z'; a++) putchar(a);
+putchar('\n');
+return (0);
 }
