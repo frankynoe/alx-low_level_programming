@@ -14,6 +14,6 @@ while (single_digit <= 9)
 putchar(single_digit);
 single_digit++;
 }
-putchar("\n");
+putchar('\n');
 return(0);
 }
