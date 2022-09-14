@@ -3,7 +3,7 @@
 /**
  *main - Entry point
  *
- * print_alphabet - It prints the alphabet in lowercase fallowed by a new line
+ *print_alphabet() - It prints the alphabet in lowercase fallowed by a new line
  *
  *Return: Nothing.
  */
